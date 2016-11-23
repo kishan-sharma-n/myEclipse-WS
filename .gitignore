@@ -1,0 +1,5 @@
+# eclipse java developer exclusion list
+.metadata
+.recommenders
+RemoteSystemsTempFiles
+Servers
